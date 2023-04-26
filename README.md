@@ -1,2 +1,3 @@
-# BasicPro
-Programming Basic Course
+# Projects ProBasic
+
+Programming Basic Course Repository
